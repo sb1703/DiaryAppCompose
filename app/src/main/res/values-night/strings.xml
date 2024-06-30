@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_logo">Google Logo</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="please_sign_in_to_continue">Please Sign in to continue.</string>
+    <string name="hamburger_menu_icon">Hamburger Menu Icon</string>
+    <string name="date_range_icon">Date Range Icon</string>
+    <string name="new_diary_icon">New Diary Icon</string>
+    <string name="logo_image">logo image</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="mood_icon">Mood Icon</string>
+    <string name="gallery_image">Gallery Image</string>
+    <string name="back_arrow_icon">Back Arrow Icon</string>
+    <string name="delete">Delete</string>
+    <string name="overflow_menu_icon">Overflow Menu Icon</string>
+</resources>
